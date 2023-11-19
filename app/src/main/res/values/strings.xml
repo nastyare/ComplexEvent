@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ComplexEvent</string>
+    <string name="checkBox">Точно сохранить?</string>
+    <string name="saveButton">Сохранить</string>
+    <string name="hint">Нажмите на кнопку, и текст сохранится здесь</string>
+</resources>
